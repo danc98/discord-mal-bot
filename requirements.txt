@@ -1,0 +1,4 @@
+aiohttp==3.9.4
+discord==2.3.2
+python-dotenv==1.0.1
+requests==2.30.0
