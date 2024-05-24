@@ -19,9 +19,9 @@ Currently doesn't support OAuth requests that require authenticating your MAL ac
  MAL API Key Instructions: https://myanimelist.net/forum/?topicid=1973141  
 
 ## Using the Bot
-1. Configure the .env file with the necessary keys.
- MAL: Client Secret, Client ID
- Discord: Discord Token, Guild ID
+1. Configure the .env file with the necessary keys.  
+ MAL: Client Secret, Client ID  
+ Discord: Discord Token, Guild ID  
 2. Run discordBot.py.
 
 ## Files
